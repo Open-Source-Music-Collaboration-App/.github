@@ -1,10 +1,6 @@
-# Music Collaboration Platform
-
-An open-source platform for musicians to collaborate on projects, share tracks, and create music together.
-
 ## 🎵 About
 
-The Music Collaboration Platform is a web-based application that enables musicians to collaborate remotely on music projects. Users can upload, share, and version-control their music files, request features, and provide feedback through an intuitive interface.
+Our Open Source Music Collaboration Platform is a web-based application that enables musicians to collaborate remotely on music projects. Users can upload, share, and version-control their music files, request features, and provide feedback through an intuitive interface.
 
 ## ✨ Key Features
 
